@@ -2,6 +2,11 @@
 
 Landing page moderna para una tienda de repuestos para Chevrolet Corsa, enfocada en conversión y contacto directo por WhatsApp.
 
+## Datos de contacto
+
+- Sitio web: https://repuestosgta.cl
+- WhatsApp: +56 9 7407 7274
+
 ## Tecnologías
 
 - Next.js

@@ -69,7 +69,7 @@ const stats = [
 ];
 
 export default function Home() {
-  const whatsappNumber = "5491123456789";
+  const whatsappNumber = "56974077274";
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(
     "Hola Repuestos GTA, necesito información sobre repuestos para mi Corsa."
   )}`;
@@ -233,6 +233,7 @@ export default function Home() {
           <div>
             <p className="section-kicker">Necesitás algo puntual</p>
             <h2>Hablemos por WhatsApp y te ayudamos a encontrarlo.</h2>
+            <p className="contact-detail">repuestosgta.cl • +56 9 7407 7274</p>
           </div>
           <a className="btn-primary" href={whatsappLink} target="_blank" rel="noreferrer">
             Solicitar presupuesto
